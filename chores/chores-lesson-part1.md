@@ -23,6 +23,13 @@ Yeah, you heard that right — my garbage can!
 | **Comprehensible input** | Entrada comprensible | Concepto clave en el aprendizaje de idiomas (escuchar cosas parcialmente entendibles). |
 | **Native speaker** | Hablante nativo | Persona cuya lengua materna es el idioma que enseña. |
 | **In a way that you can understand** | De una forma que puedas entender | Estructura útil para describir cómo se hace algo. |
+| **Your brain learns naturally whent it receives messages that are slightly above your current level.** | Tu cerebro aprende de forma natural cuando recibe mensajes que están un poco por encima de tu nivel actual. | Es una idea muy importante en el aprendizaje |
+| **Your brain** | Tu cerebro | Sujeto de la oración. |
+| **Learns naturally** | Aprende naturalmente | “Learns” = aprende; “naturally” = de forma natural, sin esfuerzo forzado. |
+| **when** | cuando | Conector que indica condición o momento. |
+| **it receives messages** | cuando recibe mensajes | “It” = el cerebro; “receives” = recibe. |
+| **That are slightly above** | que están un poco por encima | “Slightly” = ligeramente / un poco; “above” = por encima de. |
+| **Your current level** | Tu nivel actual | Se refiere a tu nivel de conocimiento o habilidad en ese momento. |
 
 ---
 
