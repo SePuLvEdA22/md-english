@@ -1,11 +1,3 @@
-Combininaciones de letras juntas y buscar un patron.
-AL -> O o Vocal + L:
-Physycal -> Physycol
-Travel -> Travol
-Call -> Coll
-Local -> Locol
-Mall -> Moll
-Pencil -> Pencol
 # 💬 Expresiones comunes en inglés con estructuras clave
 
 ## 🟢 **1. Tengo ganas de verte → _Look forward to + verb-ing_**
